@@ -1,0 +1,235 @@
+#EXTM3U
+#EXTINF:-1,AMC
+http://5.38.198.105:8001/play/amc
+#EXTINF:-1,ATV
+http://5.38.198.105:8001/play/a04g
+#EXTINF:-1,ATV Spirit
+http://5.38.198.105:8001/play/atvspirit
+#EXTINF:-1,AXN
+http://5.38.198.105:8001/play/a043
+#EXTINF:-1,Animal Planet
+http://5.38.198.105:8001/play/anim
+#EXTINF:-1,Animal Planet HD
+http://5.38.198.105:8001/play/a040
+#EXTINF:-1,Arena 4 HD
+http://5.38.198.105:8001/play/a04i
+#EXTINF:-1,Baby TV
+http://5.38.198.105:8001/play/a04r
+#EXTINF:-1,Baby TV
+http://5.38.198.105:8001/play/baby
+#EXTINF:-1,Baby TV (clone)
+http://5.38.198.105:8001/play/a04l
+#EXTINF:-1,Boomerang
+http://5.38.198.105:8001/play/boom
+#EXTINF:-1,Brazzers
+http://5.38.198.105:8001/play/brazzers
+#EXTINF:-1,CBS Reality
+http://5.38.198.105:8001/play/a02c
+#EXTINF:-1,CCTV-4
+http://5.38.198.105:8001/play/a02l
+#EXTINF:-1,CNN International
+http://5.38.198.105:8001/play/a02k
+#EXTINF:-1,Cinemax HD
+http://5.38.198.105:8001/play/cinemaxhd
+#EXTINF:-1,Comedy Central
+http://5.38.198.105:8001/play/a048
+#EXTINF:-1,Cool
+http://5.38.198.105:8001/play/cool
+#EXTINF:-1,Cool HD
+http://5.38.198.105:8001/play/a03o
+#EXTINF:-1,DTX HD
+http://5.38.198.105:8001/play/a04q
+#EXTINF:-1,Das Erste
+http://5.38.198.105:8001/play/a02e
+#EXTINF:-1,Digi Sport 2 HD
+http://5.38.198.105:8001/play/a029
+#EXTINF:-1,Dikh TV
+http://5.38.198.105:8001/play/dikh
+#EXTINF:-1,Discovery Channel
+http://5.38.198.105:8001/play/disco
+#EXTINF:-1,Discovery Channel HD
+http://5.38.198.105:8001/play/a03m
+#EXTINF:-1,Discovery Science
+http://5.38.198.105:8001/play/ds
+#EXTINF:-1,Discovery Science HD
+http://5.38.198.105:8001/play/a02y
+#EXTINF:-1,Disney Channel
+http://5.38.198.105:8001/play/a03l
+#EXTINF:-1,Disney Channel
+http://5.38.198.105:8001/play/a011
+#EXTINF:-1,Duna HD
+http://5.38.198.105:8001/play/dunahd
+#EXTINF:-1,DunaW/M4Sport+
+http://5.38.198.105:8001/play/dunawm4
+#EXTINF:-1,EWTN Bonum TV
+http://5.38.198.105:8001/play/bonum
+#EXTINF:-1,Film Cafe HD
+http://5.38.198.105:8001/play/a027
+#EXTINF:-1,Film+
+http://5.38.198.105:8001/play/filmplus
+#EXTINF:-1,Film4 HD
+http://5.38.198.105:8001/play/a04o
+#EXTINF:-1 tvg-id="filmboxestra",FilmBox Extra HD
+http://5.38.198.105:8001/play/fexhd
+#EXTINF:-1,FilmBox Family
+http://5.38.198.105:8001/play/ff
+#EXTINF:-1,FilmBox Premium
+http://5.38.198.105:8001/play/a02i
+#EXTINF:-1,FilmBox Stars
+http://5.38.198.105:8001/play/a02j
+#EXTINF:-1,Filmbox Premium
+http://5.38.198.105:8001/play/filmboxpremium
+#EXTINF:-1,Fishing & Hunting
+http://5.38.198.105:8001/play/fish
+#EXTINF:-1,FitHD/TotalDance
+http://5.38.198.105:8001/play/fithd-totaldance
+#EXTINF:-1,Fix TV
+http://5.38.198.105:8001/play/fix
+#EXTINF:-1,HBO HD
+http://5.38.198.105:8001/play/hbohd
+#EXTINF:-1,HBO2 HD
+http://5.38.198.105:8001/play/hbo2hd
+#EXTINF:-1,HBO3 HD
+http://5.38.198.105:8001/play/hbo3hd
+#EXTINF:-1,Hatoscsatorna
+http://5.38.198.105:8001/play/hatos
+#EXTINF:-1,Heti TV
+http://5.38.198.105:8001/play/heti
+#EXTINF:-1,Hir TV
+http://5.38.198.105:8001/play/a04d
+#EXTINF:-1,ID HD
+http://5.38.198.105:8001/play/a03k
+#EXTINF:-1,Izaura TV
+http://5.38.198.105:8001/play/iza
+#EXTINF:-1,Jim Jam
+http://5.38.198.105:8001/play/jimjam
+#EXTINF:-1,Jocky TV
+http://5.38.198.105:8001/play/jocky
+#EXTINF:-1,Life TV
+http://5.38.198.105:8001/play/a04c
+#EXTINF:-1,LifeTV HD
+http://5.38.198.105:8001/play/a04u
+#EXTINF:-1,M1 HD
+http://5.38.198.105:8001/play/m1hd
+#EXTINF:-1,M2 HD
+http://5.38.198.105:8001/play/m2hd
+#EXTINF:-1,M4 Sport HD
+http://5.38.198.105:8001/play/m4sporthd
+#EXTINF:-1,M5 HD
+http://5.38.198.105:8001/play/m5hd
+#EXTINF:-1,Minimax
+http://5.38.198.105:8001/play/minimax
+#EXTINF:-1,Mozi+
+http://5.38.198.105:8001/play/a04e
+#EXTINF:-1,Mozi+ HD
+http://5.38.198.105:8001/play/moziplushd
+#EXTINF:-1,Moziverzum
+http://5.38.198.105:8001/play/a047
+#EXTINF:-1,Moziverzum HD
+http://5.38.198.105:8001/play/mverzumhd
+#EXTINF:-1,Muzsika TV
+http://5.38.198.105:8001/play/a03n
+#EXTINF:-1,NatGeo Wild
+http://5.38.198.105:8001/play/a01j
+#EXTINF:-1,National Geographic
+http://5.38.198.105:8001/play/a04b
+#EXTINF:-1,Nick Junior
+http://5.38.198.105:8001/play/junior
+#EXTINF:-1,Nickelodeon
+http://5.38.198.105:8001/play/a049
+#EXTINF:-1,Nicktoons
+http://5.38.198.105:8001/play/a04a
+#EXTINF:-1,Nicktoons
+http://5.38.198.105:8001/play/a041
+#EXTINF:-1,Nicktoons
+http://5.38.198.105:8001/play/nicktoons
+#EXTINF:-1,Ozone Network
+http://5.38.198.105:8001/play/ozone
+#EXTINF:-1,PAX TV
+http://5.38.198.105:8001/play/pax
+#EXTINF:-1,PRIME
+http://5.38.198.105:8001/play/a046
+#EXTINF:-1,Paramount Network
+http://5.38.198.105:8001/play/para
+#EXTINF:-1,Paramount Network HD
+http://5.38.198.105:8001/play/a03z
+#EXTINF:-1,Pesti TV
+http://5.38.198.105:8001/play/pesti
+#EXTINF:-1,RTL Gold
+http://5.38.198.105:8001/play/a04v
+#EXTINF:-1,RTL Gold
+http://5.38.198.105:8001/play/rtlgold
+#EXTINF:-1,RTL II
+http://5.38.198.105:8001/play/rtl2
+#EXTINF:-1,RTL Klub
+http://5.38.198.105:8001/play/rtl
+#EXTINF:-1,RTL+
+http://5.38.198.105:8001/play/a045
+#EXTINF:-1,RTL+ HD
+http://5.38.198.105:8001/play/a028
+#EXTINF:-1,RTR Planeta
+http://5.38.198.105:8001/play/a02g
+#EXTINF:-1,Sat.1
+http://5.38.198.105:8001/play/a02f
+#EXTINF:-1,Slager TV
+http://5.38.198.105:8001/play/slager
+#EXTINF:-1,Sorozat+
+http://5.38.198.105:8001/play/a04j
+#EXTINF:-1,Spektrum
+http://5.38.198.105:8001/play/a04f
+#EXTINF:-1,Spektrum Home +
+http://5.38.198.105:8001/play/spekthplus
+#EXTINF:-1,Spiler 1 HD
+http://5.38.198.105:8001/play/spiler1hd
+#EXTINF:-1,Spiler 2 HD
+http://5.38.198.105:8001/play/spiler2hd
+#EXTINF:-1,Spiler1 TV HD
+http://5.38.198.105:8001/play/a03j
+#EXTINF:-1,Spiler2 TV HD
+http://5.38.198.105:8001/play/a026
+#EXTINF:-1,Sport 1 HD
+http://5.38.198.105:8001/play/a02o
+#EXTINF:-1,Sport 1 HD
+http://5.38.198.105:8001/play/sport1hd
+#EXTINF:-1,Sport 2 HD
+http://5.38.198.105:8001/play/a04h
+#EXTINF:-1,Sport 2 HD
+http://5.38.198.105:8001/play/a02q
+#EXTINF:-1,Super TV2
+http://5.38.198.105:8001/play/supertv2
+#EXTINF:-1,SuperOne
+http://5.38.198.105:8001/play/superone
+#EXTINF:-1,TLC
+http://5.38.198.105:8001/play/a02z
+#EXTINF:-1,TLC
+http://5.38.198.105:8001/play/tlc
+#EXTINF:-1,TV Paprika
+http://5.38.198.105:8001/play/paprika
+#EXTINF:-1,TV Paprika HD
+http://5.38.198.105:8001/play/a031
+#EXTINF:-1,TV2
+http://5.38.198.105:8001/play/tv2
+#EXTINF:-1,TV2 Comedy
+http://5.38.198.105:8001/play/tv2comedy
+#EXTINF:-1,TV2 Kids
+http://5.38.198.105:8001/play/tv2kids
+#EXTINF:-1,TV2 Sef
+http://5.38.198.105:8001/play/tv2sef
+#EXTINF:-1,TV4
+http://5.38.198.105:8001/play/tv4
+#EXTINF:-1,TVP Polonia HD
+http://5.38.198.105:8001/play/a02m
+#EXTINF:-1,Travel Channel HD
+http://5.38.198.105:8001/play/a04p
+#EXTINF:-1,VIASAT 6
+http://5.38.198.105:8001/play/a04t
+#EXTINF:-1,Viasat 3
+http://5.38.198.105:8001/play/a044
+#EXTINF:-1,Viasat Explore HD
+http://5.38.198.105:8001/play/a025
+#EXTINF:-1,Viasat History
+http://5.38.198.105:8001/play/viasathistory
+#EXTINF:-1,Viasat History HD
+http://5.38.198.105:8001/play/a04s
+#EXTINF:-1,ZDF
+http://5.38.198.105:8001/play/a02h
